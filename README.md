@@ -1,4 +1,4 @@
-# aceleracao
+# Projeto para exxemplificação dde criação de recursos em terraform e o dia a dia de um SRE, projeto foi apresentado na plataforma DIO aceleracao de carreiras.
 
 
 Execute o comando terraform init para inicializar o diretório de trabalho.
